@@ -35,12 +35,4 @@ public class SuperHero {
     return heroesList;
   }
 
-
-//   public Squad(SuperHero);
-//
-//
-//
-//
-// }
-
 }
